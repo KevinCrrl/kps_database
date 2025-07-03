@@ -1,0 +1,19 @@
+{
+    "fastfetch": {
+                    "archivo": "fastfetch-2.46.0.deb",
+                    "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.46.0/fastfetch-linux-amd64.deb",
+                    "dependencias": ["libc6"],
+                    "sha256sum": "38da17d8645c7e8bc28c964113723fa13821a3b24edc1c6ec897256ec46ff042",
+                    "licencia": "MIT",
+                    "mantenedor": "KevinCrrl"
+    },
+    "onlyoffice-desktopeditors": {
+                    "archivo": "onlyoffice-9.0.0.deb",
+                    "url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.0/onlyoffice-desktopeditors_amd64.deb",
+                    "dependencias": ["x11-common", "libasound2", "curl", "desktop-file-utils", "gstreamer1.0-libav", "gstreamer1.0-plugins-ugly", "libxss1", "libatk1.0-0", "libgtk-3-0", "libcairo2", "libstdc++6",
+                    "libxkbcommon-x11-0", "fonts-dejavu", "fonts-liberation", "fonts-crosextra-carlito", "xdg-utils"],
+                    "sha256sum": "770edf41199fca232356b9ca1834e38c6ec74f852c7ec2aa6bfa4a9297e745e2",
+                    "licencia": "AGPL3",
+                    "mantenedor": "KevinCrrl"
+    }
+}
