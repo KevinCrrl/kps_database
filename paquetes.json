@@ -12,7 +12,7 @@
                     "url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/download/v9.0.0/onlyoffice-desktopeditors_amd64.deb",
                     "dependencias": ["x11-common", "libasound2", "curl", "desktop-file-utils", "gstreamer1.0-libav", "gstreamer1.0-plugins-ugly", "libxss1", "libatk1.0-0", "libgtk-3-0", "libcairo2", "libstdc++6",
                     "libxkbcommon-x11-0", "fonts-dejavu", "fonts-liberation", "fonts-crosextra-carlito", "xdg-utils"],
-                    "sha256sum": "770edf41199fca232356b9ca1834e38c6ec74f852c7ec2aa6bfa4a9297e745e2",
+                    "sha256sum": "9868c516eba994620d823b88107a0edc03b8a6992e9b59627e3e6e91b7d6592f",
                     "licencia": "AGPL3",
                     "mantenedor": "KevinCrrl"
     }
