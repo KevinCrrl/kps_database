@@ -1,9 +1,9 @@
 {
     "fastfetch": {
-                    "archivo": "fastfetch-2.46.0.deb",
-                    "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.46.0/fastfetch-linux-amd64.deb",
+                    "archivo": "fastfetch-2.47.0.deb",
+                    "url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.47.0/fastfetch-linux-amd64.deb",
                     "dependencias": ["libc6"],
-                    "sha256sum": "38da17d8645c7e8bc28c964113723fa13821a3b24edc1c6ec897256ec46ff042",
+                    "sha256sum": "3a2c963c207311af6c6a377230393d3135e8b0690c011f12df40209d9d2ec259",
                     "licencia": "MIT",
                     "mantenedor": "KevinCrrl"
     },
